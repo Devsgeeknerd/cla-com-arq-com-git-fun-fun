@@ -11,6 +11,7 @@
 ## Explicação do Processo de Commit no Git
 
 **O que este conjunto de comandos faz?**
+
 Prepara e salva (commita) alterações em um arquivo específico no repositório Git.
 
 **Vocabulário Básico:**
