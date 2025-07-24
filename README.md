@@ -52,9 +52,10 @@ Tente criar um novo arquivo e fazer um commit explicando o que ele faz!
 > **Boas práticas**:
 >
 > * **Mensagens de Commit Claras**:
->   * Descrever brevemente a mudança realizada
->   * Usar verbos no presente
->   * Ser específico e conciso
+>   * Descrever brevemente a mudança realizada.
+>   * Usar verbos no presente.
+>   * Ser específico e conciso.
+>
 > * **Staging Seletivo**:
 >   * Commitar apenas arquivos relacionados a uma mesma funcionalidade
 >   * Evitar commits com múltiplas alterações não relacionadas
@@ -81,10 +82,10 @@ Tente criar um novo arquivo e fazer um commit explicando o que ele faz!
 
 ### :clipboard: Próximos Passos
 
-* Aprender git push
-* Entender branches
-* Praticar fluxo de trabalho com repositórios remotos
-* Estudar estratégias de branching
+* Aprender git push.
+* Entender branches.
+* Praticar fluxo de trabalho com repositórios remotos.
+* Estudar estratégias de branching.
 
 ### :bulb: Dica de Especialista
 
